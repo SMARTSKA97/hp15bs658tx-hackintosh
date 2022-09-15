@@ -1,11 +1,6 @@
-# Hp 15bs661tx Opencore EFI [Mojave - Big Sur]
+# Hp 15bs661tx Opencore EFI [Mojave - Monterey]
+<b>A Fork from sortedcord</b>
 ![Hp Latpop Snapshot](https://github.com/sortedcord/hp15bs661tx-hackintosh/blob/master/Docs/HP-Image.png)
-
-<b>This repository will no longer be maintained by me as my laptop is no longer usable for hackintoshing. Kindly, do not install any BIOS updates from Windows as it messes up your ECs and it may even disable the roll-back functionality of the BIOS. I made the mistake of doing so and now MacOS will refuse to boot up. Feel free to continue its updates by forking this repository
-  
-Thanks
-</b>
-
 
 ### Where is Opencore 0.7.0?
 
@@ -13,14 +8,14 @@ I was busy with other projects so I couldn't find time to update it. So right no
 
 So for now I guess you have to wait. Although if you are able to, Pull Requests are always welcomed :)
 
-**NOTE**: I will not be doing a Monterrey update is its really early right now, so its better to stick with Big Sur, although if you wanted to test it out, you can always do so and share the experience...
+**NOTE**: I will be doing a Monterrey update but its better to stick with Big Sur, although if you wanted to test it out, you can always do so and share the experience...
 
 
 ### Status: WIP
 
-This repo contains information for getting macOS 11 Big Sur working on a HP 15bs-661tx Notwbook Laptop
+This repo contains information for getting macOS 11 Big Sur working on a HP 15bs-658tx Notebook Laptop
 
-This EFI Config now supports Big Sur as well. So if you want to upgrade you can promptly do so but I would suggest to do a fresh installation instead. Also, in case you haven't made any modifications to the laptop or have done any upgrades, I suggest buying a SATA m.2 SSD of either ~120G or ~240G as it will really help you. Trust me. It will enhance the experience if you are planning on upgrading to Big Sur.
+This EFI Config now supports Big Sur and Mojave as well. So if you want to upgrade you can promptly do so but I would suggest to do a fresh installation instead. Also, in case you haven't made any modifications to the laptop or have done any upgrades, I suggest buying a SATA m.2 SSD of either ~120G or ~240G as it will really help you. Trust me. It will enhance the experience if you are planning on upgrading to Big Sur.
 
 I personally think that this i3 CPU isn't really cut out for Big Sur as I am a power user and I'd probably upgrade this laptop's motherboard with either an 8th gen i5 or and 8th ge n i7. That would really make this thing mark unto today's standards at least. Also I would recommend you to go buy the supported intel WLAN + BT card for this which can be made to work with Mac OS using intelwm. If I ever get the chance and money to make these updates I would really do so and you should also consider some of them.
 
